@@ -1,0 +1,57 @@
+# RStudio Course .gitignore
+
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Output files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+!imagenes/*.png
+!imagenes/*.jpg
+!imagenes/*.jpeg
+!imagenes/*.svg
+
+# Temporary and cache files
+.httr-oauth
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# R Markdown output
+*.html
+!README.html
+*.docx
+*.pptx
+
+# Shiny temporary files
+rsconnect/
+
+# Package build files
+*.tar.gz
+*.zip
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+*~
+.#*
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary directories
+tmp/
+temp/
