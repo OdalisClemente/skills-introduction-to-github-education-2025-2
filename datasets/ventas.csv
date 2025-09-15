@@ -1,0 +1,16 @@
+producto,categoria,precio,ventas_mes,stock
+Laptop HP,Electrónicos,899.99,45,23
+Mouse Logitech,Electrónicos,29.99,156,89
+Teclado Mecánico,Electrónicos,79.99,78,45
+Monitor 24",Electrónicos,199.99,34,12
+Smartphone Samsung,Electrónicos,699.99,67,34
+Tablet iPad,Electrónicos,399.99,43,18
+Auriculares Sony,Electrónicos,149.99,89,56
+Cámara Canon,Electrónicos,549.99,23,8
+Impresora Epson,Electrónicos,129.99,34,25
+Router WiFi,Electrónicos,89.99,45,67
+Disco SSD 1TB,Electrónicos,119.99,67,43
+Memoria RAM 16GB,Electrónicos,149.99,34,29
+Webcam HD,Electrónicos,59.99,78,45
+Cable HDMI,Electrónicos,19.99,123,78
+Cargador Universal,Electrónicos,24.99,98,89
